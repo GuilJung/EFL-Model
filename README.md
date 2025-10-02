@@ -18,7 +18,6 @@ This repository will include:
 - Training & inference code
 - Pre/post-processing scripts
 - Config files and checkpoints
-- Reproducible experiments (seeds & logs)
 
 > For now, this is a placeholder. Full instructions will be added upon acceptance.
 
